@@ -40,4 +40,4 @@ luac.out
 *.hex
 
 # Vscode workspace file
-*.code.workspace
+*.code-workspace
