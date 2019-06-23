@@ -1,3 +1,4 @@
+-- 参考 https://blog.csdn.net/qq_26958473/article/details/79392222
 local function OperatorConcat(str, n)
     local ret = ""
     --local sep = "|"
